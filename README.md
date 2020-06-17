@@ -1,4 +1,4 @@
-# Background_Changer
+# Background Color Changer
 Simple JavaScript Project that changes the background each time a button is pressed.
 
 This project creates random rgb colors without using an array. 
